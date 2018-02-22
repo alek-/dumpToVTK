@@ -73,4 +73,5 @@ rm $tmpfile
 
 done
 
-#echo "Done"
+echo "Done"
+notify-send "DUMP TO VTK FINISHED" -t 3000
